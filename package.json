@@ -25,7 +25,7 @@
   "devDependencies": {
     "@eslint/js": "^9.14.0",
     "eslint": "^9.14.0",
-    "eslint-plugin-vue": "^10.1.0",
+    "eslint-plugin-vue": "^10.3.0",
     "globals": "^16.2.0",
     "vue-tsc": "^2.0.29",
     "@vue/eslint-config-typescript": "^14.4.0",
